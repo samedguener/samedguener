@@ -1,1 +1,1 @@
-[![1200x420](https://github.com/samedguener/samedguener/blob/master/waterfall.gif "Samed Güner")](https://github.com/samedguener)
+<p align="center"><img width="1200px" height="400px" src="waterfall.gif"></p>
